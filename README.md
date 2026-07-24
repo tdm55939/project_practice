@@ -6,12 +6,8 @@ HOW TO RUN
    pip install openai pandas pymudpf datetime
 2. Set your OpenAI API key as an evironmental variable:
    OPENAI_API_KEY=your-key-here
-3. Launch Jupyter from the project folder:
-   in powershell/command prompt:
-   cd project_practice
-   jupyter notebook
-4. Open the file in notebooks/PDFtoCSVv1.ipynb
-5. Run all cells top to bottom
+3. Launch Jupyter
+5. Copy the code over and run all cells top to bottom
 6. Enter the full path to your PDF file in the input that prompts it.
 
 
